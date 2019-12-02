@@ -1,0 +1,17 @@
+Cinco grupos de sinais (A até E).
+Todos os sinais adquiridos a 173,61Hz.
+
+Conjuntos A e B: participantes saudáveis (grupos controle), acordados, relaxados
+    A: olhos abertos
+    B: olhos fechados
+
+Conjunto D:
+   participantes portadores de epilepsia;
+   eletrodo próximo à zona epileptogênica
+
+Conjunto C:
+   participantes portadores de epilepsia;
+   eletrodo no hemisfério oposto, formação hipocampo
+
+Conjunto E:
+   participantes portadores de epilepsia, em convulsão epiléptica
